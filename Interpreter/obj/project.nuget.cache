@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DEVhhE32rZ+aDKi/Rr8qGNCdN8FKg1PiwGx0CORP+vVQrRavrio+WU/RXtzPdpPhJkyj7ZVcsXOE5CcwwrOmGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\facec\\source\\repos\\Interpreter\\Interpreter\\Interpreter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\facec\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
